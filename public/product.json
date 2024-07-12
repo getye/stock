@@ -1,0 +1,80 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "all-over graphic print dress",
+            "price": 210,
+            "thumbnail": "./products/all-over graphic print dress.jpg"
+        },
+        {
+            "id": 2,
+            "title": "bow-detail plaid-check pattern dress",
+            "price": 196,
+            "thumbnail": "./products/bow-detail plaid-check pattern dress.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Jumpman Flight hoodie tracksuit set",
+            "price": 210,
+            "thumbnail": "./products/Jumpman Flight hoodie tracksuit set.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Kreisler embellished sleeveless dress",
+            "price": 168,
+            "thumbnail": "./products/Kreisler embellished sleeveless dress.jpg"
+        },
+        {
+            "id": 5,
+            "title": "logo-embroidered cotton tracksuit",
+            "price": 246,
+            "thumbnail": "./products/logo-embroidered cotton tracksuit.jpg"
+        },
+        {
+            "id": 6,
+            "title": "logo-print cotton-blend tracksuit",
+            "price": 260,
+            "thumbnail": "./products/logo-print cotton-blend tracksuit.jpg"
+        },
+        {
+            "id": 7,
+            "title": "logo-print tracksuit",
+            "price": 265,
+            "thumbnail": "./products/logo-print tracksuit.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Melinda embellished pleated-skirt dress",
+            "price": 195,
+            "thumbnail": "./products/Melinda embellished pleated-skirt dress.jpg"
+        },
+        {
+            "id": 9,
+            "title": "off-shoulder ruffled dress",
+            "price": 210,
+            "thumbnail": "./products/off-shoulder ruffled dress.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Sarita bow-detailing dress",
+            "price": 220,
+            "thumbnail": "./products/Sarita bow-detailing dress.jpg"
+        },
+        {
+            "id": 11,
+            "title": "single-breasted checked three-piece suit",
+            "price": 230,
+            "thumbnail": "./products/single-breasted checked three-piece suit.jpg"
+        },
+        {
+            "id": 12,
+            "title": "stripe-trimmed tracksuit",
+            "price": 225,
+            "thumbnail": "./products/stripe-trimmed tracksuit.jpg"
+        }
+        
+    ],
+    "total": 194,
+    "skip": 0,
+    "limit": 30
+}

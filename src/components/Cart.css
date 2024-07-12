@@ -1,0 +1,11 @@
+.cartItem {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+  }
+  .qtyInput {
+    width: 50px;
+  }
+
+
+  

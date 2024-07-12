@@ -1,0 +1,122 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Cupboard",
+            "description": " a closet with shelves for dishes, cups.",
+            "category": "furniture",
+            "price": 56465.66,
+            "discountPercentage": 7.17,
+            "rating": 4.94,
+            "stock": 5,
+            "tags": [
+                "beauty",
+                "mascara"
+            ],
+            "brand": "Essence",
+            "sku": "RCH45Q1A",
+            "weight": 2,
+            "dimensions": {
+                "width": 23.17,
+                "height": 14.43,
+                "depth": 28.01
+            },
+            "warrantyInformation": "1 year warranty",
+            "shippingInformation": "Ships in 1 month",
+            "availabilityStatus": "Low Stock",
+            "reviews": [
+                {
+                    "rating": 2,
+                    "comment": "Very unhappy with my purchase!",
+                    "date": "2024-05-23T08:56:21.618Z",
+                    "reviewerName": "John Doe",
+                    "reviewerEmail": "john.doe@x.dummyjson.com"
+                },
+                {
+                    "rating": 2,
+                    "comment": "Not as described!",
+                    "date": "2024-05-23T08:56:21.618Z",
+                    "reviewerName": "Nolan Gonzalez",
+                    "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+                },
+                {
+                    "rating": 5,
+                    "comment": "Very satisfied!",
+                    "date": "2024-05-23T08:56:21.618Z",
+                    "reviewerName": "Scarlett Wright",
+                    "reviewerEmail": "scarlett.wright@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 24,
+            "images": [
+                "./Data/Cupboard1.jpg"
+            ],
+            "thumbnail": "./Data/Cupboard1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Cupboard",
+            "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+            "category": "beauty",
+            "price": 19.99,
+            "discountPercentage": 5.5,
+            "rating": 3.28,
+            "stock": 44,
+            "tags": [
+                "beauty",
+                "eyeshadow"
+            ],
+            "brand": "Glamour Beauty",
+            "sku": "MVCFH27F",
+            "weight": 3,
+            "dimensions": {
+                "width": 12.42,
+                "height": 8.63,
+                "depth": 29.13
+            },
+            "warrantyInformation": "1 year warranty",
+            "shippingInformation": "Ships in 2 weeks",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 4,
+                    "comment": "Very satisfied!",
+                    "date": "2024-05-23T08:56:21.618Z",
+                    "reviewerName": "Liam Garcia",
+                    "reviewerEmail": "liam.garcia@x.dummyjson.com"
+                },
+                {
+                    "rating": 1,
+                    "comment": "Very disappointed!",
+                    "date": "2024-05-23T08:56:21.618Z",
+                    "reviewerName": "Nora Russell",
+                    "reviewerEmail": "nora.russell@x.dummyjson.com"
+                },
+                {
+                    "rating": 5,
+                    "comment": "Highly impressed!",
+                    "date": "2024-05-23T08:56:21.618Z",
+                    "reviewerName": "Elena Baker",
+                    "reviewerEmail": "elena.baker@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 32,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.618Z",
+                "updatedAt": "2024-05-23T08:56:21.618Z",
+                "barcode": "2817839095220",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "./Data/Cupboard2.jpg"
+            ],
+            "thumbnail": "./Data/Cupboard1.jpg"
+        }
+        
+    ],
+    "total": 194,
+    "skip": 0,
+    "limit": 30
+}
